@@ -2,3 +2,4 @@ This is the first file and text in my test repo
 Here's some more text
 Here's some clever text
 yes clever
+s'more
